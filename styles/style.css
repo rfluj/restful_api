@@ -1,0 +1,27 @@
+
+.float {
+	float: right;
+}
+
+.side_bar {
+	width: auto;
+	direction: rtl;
+	background-color: #bdbdbd;
+}
+
+.side_bar a {
+	color: #231434;
+	margin-bottom: 20px;
+	text-decoration: none;
+}
+
+.clear {
+	clear: both;
+}
+
+.content {
+	margin-right: 30px;
+	width: auto;
+	background-color: #5AAECB;
+}
+
